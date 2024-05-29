@@ -1,1 +1,7 @@
-readme file
+The URL for the Webiste is https://black-rock-05f640e03.5.azurestaticapps.net
+
+The file index.html shows the code that creates this website
+
+The file SQLTables.sql shows the code to build the tables for the database
+
+I was not able to build a function app to link the website and database together
